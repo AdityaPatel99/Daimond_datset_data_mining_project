@@ -1,1 +1,1 @@
-# Daimond_datset_data_mining_project
+# Diamond_dataset_data_mining_project
